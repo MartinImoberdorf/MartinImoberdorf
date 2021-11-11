@@ -7,7 +7,7 @@
 
 🟨 I’m also passionate about database with SQL and phpMyAdmin.
 
-🟨 I’m interested in web development with native languages (HTML, CSS, JS) where I have my website and soon learn Django and more of JS.
+🟨 I’m interested in web development with native languages (HTML, CSS, JS) where I’m learning by developing my website.
 
 🟨 Nowadays I'm starting small in the world of data analysis and artificial intelligence with Python. 👩‍💻
 
@@ -20,3 +20,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🟪 📫 How to reach me: tinchoimo@gmail.com  or linkedin/in/martin-imoberdorf
+
+🟪 All the scripts created were created by me, for your use contact my mail.
