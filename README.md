@@ -9,7 +9,7 @@
 
 🟨 I’m interested in web development with native languages (HTML, CSS, JS) where I’m learning by developing my website.
 
-🟨 Nowadays I'm starting small in the world of data science and artificial intelligence with Python. 👩‍💻
+🟨 Nowadays I'm starting small in the world of data science, artificial intelligence and cyber security with Python. 👩‍💻
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
