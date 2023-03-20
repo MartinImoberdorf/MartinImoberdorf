@@ -1,8 +1,6 @@
 ![HI, I'M](https://user-images.githubusercontent.com/93394695/226223217-11a0c93c-2ad4-43f3-a395-1761ac03d4ad.gif)
 
 
-🟧 👋 Hi, I’m @MartinImoberdorf, formally known as Martín José Imoberdorf.
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🟨 ⚡ I’m very interested in everything related to Python and the popular libraries that make it up but I'm also interested in the use of Unity and C# in video games and app development. 🎮
