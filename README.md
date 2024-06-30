@@ -3,13 +3,13 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🟨 ⚡ I’m very interested in everything related to Python and the popular libraries that make it up but 
+🟨 ⚡ I’m very interested in everything related to Python and the popular libraries that come with it.
 
-🟨 I’m interested in web development with native languages (HTML, CSS, JS, DJANGO).
+🟨 I’m interested in web development.
 
-🟨 I'm also interested in the use of Unity and C# in video games and app development.🎮.
+🟨 In my free time, I use Unity and C# to develop video games. 🎮
 
-🟨 Nowadays I'm starting really into in the world of Cybersecurity. 👩‍💻
+🟨 Nowadays, I'm starting to increase my involvement in the world of cybersecurity. 👩‍💻
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
