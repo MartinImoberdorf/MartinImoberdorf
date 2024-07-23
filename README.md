@@ -29,7 +29,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinimoberdorf&label=Profile%20views&color=0e75b6&style=flat" alt="martinimoberdorf" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/martinimoberdorf/count.svg?"  />
+</div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
