@@ -5,11 +5,13 @@
 
 🟨 ⚡ I’m very interested in everything related to Python and the popular libraries that come with it.
 
-🟨 I’m interested in web development.
+🟨 Nowadays, I'm really into the world of cybersecurity, particularly in penetration testing (pentesting). 👩‍💻
+
+🟨 I’m interested in Backend Development (FastAPI, Django, NodeJS, Express).
 
 🟨 In my free time, I use Unity and C# to develop video games. 🎮
 
-🟨 Nowadays, I'm starting to increase my involvement in the world of cybersecurity. 👩‍💻
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
