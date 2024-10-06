@@ -7,7 +7,7 @@
 
 🟨 Nowadays, I'm really into the world of cybersecurity, particularly in penetration testing (pentesting). 👩‍💻
 
-🟨 I’m interested in Backend Development (FastAPI, Django, NodeJS, Express).
+🟨 I’m interested in Backend Development (FastAPI, Django, Flask, Spring Boot).
 
 🟨 In my free time, I use Unity and C# to develop video games. 🎮
 
