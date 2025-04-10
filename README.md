@@ -3,13 +3,13 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🟨 ⚡ I’m very interested in everything related to Python and the popular libraries that come with it.
+🟨 ⚡ I have a strong passion for Python and enjoy exploring its vast ecosystem of powerful and widely-used libraries.
 
-🟨 Nowadays, I'm really into the world of cybersecurity, particularly in penetration testing (pentesting). 👩‍💻
+🟨 I'm particularly interested in Backend Development, with hands-on experience using Java and the Spring Boot framework to build scalable applications.
 
-🟨 I’m interested in Backend Development (FastAPI, Django, Flask, Spring Boot) (Python - Java).
+🟨 I'm deeply fascinated by the field of cybersecurity, with a growing focus on penetration testing and ethical hacking. 👩‍💻
 
-🟨 In my free time, I use Unity and C# to develop video games. 🎮
+🟨 During my spare time, I love working with Unity and C# to bring game ideas to life and sharpen my skills in game development.  🎮
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -53,6 +53,7 @@
    <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" alt="c#" width="50" height="50"/>
    
    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="java" width="50" height="50"/>
     
 </p>
 
