@@ -61,4 +61,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinimoberdorf&show_icons=true&locale=en&layout=pie&theme=blue-green" alt="martinimoberdorf" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinimoberdorf&show_icons=true&locale=en&theme=blue-green&show_icons=true" alt="martinimoberdorf" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinimoberdorf&theme=blue-green" alt="martinimoberdorf" /></p>
+
