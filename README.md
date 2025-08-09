@@ -2,12 +2,13 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## **Backend Engineer | Backend Security Engineer**
 
-🟨 ⚡ I have a strong passion for Python and enjoy exploring its vast ecosystem of powerful and widely-used libraries.
+🟨 ⚡ Passionate Python developer with solid experience building backend systems using Java and Spring Boot, designing scalable, maintainable, and secure applications.
 
-🟨 I'm particularly interested in Backend Development, with hands-on experience using Java and the Spring Boot framework to build scalable applications.
+🟨 Security enthusiast with practical knowledge in penetration testing, ethical hacking, and backend security best practices, actively expanding expertise in cybersecurity. 👩‍💻
 
-🟨 I'm deeply fascinated by the field of cybersecurity, with a growing focus on penetration testing and ethical hacking. 👩‍💻
+🟨 Familiar with containerization (Docker), CI/CD pipelines, and cloud deployment environments to support robust backend services.
 
 🟨 During my spare time, I love working with Unity and C# to bring game ideas to life and sharpen my skills in game development.  🎮
 
