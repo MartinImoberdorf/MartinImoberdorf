@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Backend Engineer | Backend Security Engineer**
 
-🟨 ⚡ Passionate Python developer with solid experience building backend systems using Java and Spring Boot, designing scalable, maintainable, and secure applications.
+🟨 ⚡ Passionate Backend Engineer with solid experience building scalable and secure backend systems using Java and Spring Boot, focused on clean architecture and maintainable code.
 
 🟨 Security enthusiast with practical knowledge in penetration testing, ethical hacking, and backend security best practices, actively expanding expertise in cybersecurity. 👩‍💻
 
