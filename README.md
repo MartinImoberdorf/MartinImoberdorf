@@ -10,7 +10,9 @@
 
 🟨 Familiar with containerization (Docker), CI/CD pipelines, and cloud deployment environments to support robust backend services.
 
-🟨 During my spare time, I love working with Unity and C# to bring game ideas to life and sharpen my skills in game development.  🎮
+🟨 During my spare time, I love working with Unity and C# to bring game ideas to life and sharpen my skills in game development.  
+
+🎮 Experience using Python for backend scripting, automation, data processing, and REST API development.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
