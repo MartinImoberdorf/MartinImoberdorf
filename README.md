@@ -59,9 +59,3 @@
     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="java" width="50" height="50"/>
     
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinimoberdorf&show_icons=true&locale=en&layout=pie&theme=blue-green" alt="martinimoberdorf" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinimoberdorf&show_icons=true&locale=en&theme=blue-green&show_icons=true" alt="martinimoberdorf" /></p>
-
