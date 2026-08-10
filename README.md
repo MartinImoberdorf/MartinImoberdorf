@@ -8,11 +8,7 @@
 
 🟨 I'm also into offensive security, currently preparing for the eJPT certification. That perspective shapes how I write code: I try to think about security from the start, not add it later.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 🟩 Open to collaborating on projects of any kind, new ideas and perspectives are always welcome. 🧠
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📫 How to reach me: tinchoimo@gmail.com or linkedin.com/in/martin-imoberdorf
 
