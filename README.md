@@ -6,7 +6,7 @@
 
 🟨 Advanced Systems Engineering student focused on backend development. I build backend systems using Java and Spring, with an emphasis on clean architecture and secure design.
 
-🟨 I'm also into offensive security, currently preparing for the eJPT certification. That perspective shapes how I write code: I try to think about security from the start, not add it later.
+🟨 I'm also into offensive security, currently preparing for the eJPT certification. That perspective shapes how I write code. I try to think about security from the start, not add it later.
 
 🟩 Open to collaborating on projects of any kind, new ideas and perspectives are always welcome. 🧠
 
